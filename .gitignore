@@ -1,0 +1,13 @@
+virtualenv/
+.idea/
+__pycache__
+.DS_Store
+env
+notes.MD
+htmlcov
+dev-notes.txt
+.vscode/
+node_modules/node_modules/
+node_modules/
+docs/
+cypress/screenshots/
